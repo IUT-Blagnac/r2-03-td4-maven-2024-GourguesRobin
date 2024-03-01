@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+              <mainClass>TP2</mainClass>
             </manifest>
           </archive>
         </configuration>
