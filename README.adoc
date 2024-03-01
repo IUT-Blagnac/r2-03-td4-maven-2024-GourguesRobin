@@ -4,8 +4,9 @@ mvn javadoc:javadoc
 Avant de lancer le projet compiler ainsi que faire la version exécutable : 
 compiler :
 mvn compile
+
 version exécutable : 
 mvn package 
 
-Pour lancer mon projet 
+Pour lancer mon projet : 
 java -jar target/tp_qualite-1.0.jar   
